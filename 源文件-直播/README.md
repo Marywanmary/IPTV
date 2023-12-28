@@ -24,7 +24,7 @@
     
 ### 源收集
  - IPTV-org，全球IPTV直播源，每日更新，缺点国内源不一定高效，作为收集备选。</p>
-    https://iptv-org.github.io/iptv/countries/cn.m3u</p>
+    - https://iptv-org.github.io/iptv/countries/cn.m3u</p>
     https://iptv-org.github.io/iptv/countries/hk.m3u</p>
     https://iptv-org.github.io/iptv/countries/tw.m3u</p>
     https://iptv-org.github.io/iptv/countries/sg.m3u</p>
