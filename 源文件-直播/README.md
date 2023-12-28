@@ -23,36 +23,36 @@
     可用的节目源</p>
     
 ### 源收集
-  IPTV-org，全球IPTV直播源，每日更新，缺点国内源不一定高效，作为收集备选。</p>
+ - IPTV-org，全球IPTV直播源，每日更新，缺点国内源不一定高效，作为收集备选。</p>
     https://iptv-org.github.io/iptv/countries/cn.m3u</p>
     https://iptv-org.github.io/iptv/countries/hk.m3u</p>
     https://iptv-org.github.io/iptv/countries/tw.m3u</p>
     https://iptv-org.github.io/iptv/countries/sg.m3u</p>
     https://iptv-org.github.io/iptv/countries/jp.m3u</p>
-  fanmingming，范明明，近期很火的直播源，不用FQ，更新及时，主要为IPv6，主力推荐。</p>
+ - fanmingming，范明明，近期很火的直播源，不用FQ，更新及时，主要为IPv6，主力推荐。</p>
     https://live.fanmingming.com/tv/m3u/ipv6.m3u</p>
     短网址：https://gg.gg/zby001</p>
     https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u 需要FQ
 
-  lqtv，乐青影音，不用FQ，更新及时，有IPv6，各地卫视，缺点台太多，适合TVBox</p>
+ - lqtv，乐青影音，不用FQ，更新及时，有IPv6，各地卫视，缺点台太多，适合TVBox</p>
     https://lqtv.github.io/m3u/tv.m3u</p>
     短网址：https://gg.gg/zby002</p>
-  Gavin12340，
+ - Gavin12340，
     https://raw.githubusercontent.com/Gavin12340/iptv_ipv6_main/main/iptv_ipv6_main.m3u
-  Kimentanm
+ - Kimentanm
     https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-  Meroser
+ - Meroser
     https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u
-  whpsky
+ - whpsky
     https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u
-  wuyun999
+ - wuyun999
     https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/ix3.m3u
-  YanG-1989
+ - YanG-1989
     https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
     https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
-  YueChan
+ - YueChan
     https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
-  hussobaba
+ - hussobaba
     https://raw.githubusercontent.com/hussobaba/AILE-Tv/main/TBRT5_AL.m3u
 
 </p>
