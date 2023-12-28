@@ -1,5 +1,5 @@
 
-<h1> align="center"> 经常维护的IPv6直播源收集、分流、Shorten计划</h1>
+<h1 align="center"> 经常维护的IPv6直播源收集、分流、Shorten计划</h1>
   <h3 align="center"> 本计划只是收集，随缘更新。</h1>
   
 ## 源收集介绍
