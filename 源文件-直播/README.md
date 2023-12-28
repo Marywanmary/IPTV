@@ -1,8 +1,10 @@
 
-<p align="center"> 经常维护的IPv6直播源收集、分流、Shorten计划</p>
-  本计划只是收集，随缘更新。</p>
-# 源收集介绍</p>
-## 源介绍</p>
+<h1> align="center"> 经常维护的IPv6直播源收集、分流、Shorten计划</h1>
+  <h3 align="center"> 本计划只是收集，随缘更新。</h1>
+  
+## 源收集介绍
+
+### 源介绍
     ***M3U源/TXT源/Televizo/TiviMate/TVBox电视源的一些理解***</p>
     M3U/TXT源都可以分组，但是无法自动换源，换源是在客户端配置；</p>
     Televizo/TiviMate均无法设置换源，多少条重复源就显示多少条，只有TVBox能合并自动换源。</p>
@@ -20,7 +22,7 @@
     分组2,#genre#</p>
     可用的节目源</p>
     
-## 源收集</p>
+### 源收集
   IPTV-org，全球IPTV直播源，每日更新，缺点国内源不一定高效，作为收集备选。</p>
     https://iptv-org.github.io/iptv/countries/cn.m3u</p>
     https://iptv-org.github.io/iptv/countries/hk.m3u</p>
