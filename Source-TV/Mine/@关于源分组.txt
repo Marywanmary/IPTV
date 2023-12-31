@@ -1,0 +1,15 @@
+txt分组
+
+== 央视频道 ==,#genre#
+== 亚洲 ==,#genre#
+...
+== XXX ==,#genre#
+
+
+m3u分组
+转换后要去掉,#genre#，否则会出现在分组列表
+
+#EXTINF:-1 tvg-logo="" group-title="== 央视频道 ==,#genre#",CCTV 1 综合
+改为
+#EXTINF:-1 tvg-logo="" group-title="== 央视频道 ==",CCTV 1 综合
+
