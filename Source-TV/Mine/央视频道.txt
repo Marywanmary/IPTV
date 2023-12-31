@@ -1,4 +1,3 @@
-===20240101更新by似水流年===
 == 央视频道 ==,#genre#
 CCTV 1 综合,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV 1 综合,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.m3u8
@@ -1283,7 +1282,6 @@ CCTV-第一剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/
 CCTV-第一剧场,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 CCTV-放映室,http://epg.112114.xyz/douyu/10011042
-CCTV-风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGJz5anxUFgyS6MrkLezPQZm9JL%2Bv9RrHWJTagMmnVYzpeQ%2FU0oiypeROXP7q2riYic
 CCTV-高尔夫网球,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/PLTV/1/224/3221230907/1.m3u8
 CCTV-高尔夫网球,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/PLTV/1/224/3221230907/1.m3u8
 CCTV-高尔夫网球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGLY7Qr44mlU8Mm7hAKppcofYcqtkgnrIU1veEPNSLwHTPQxqGjPgZkOj3N28h2Dcwo

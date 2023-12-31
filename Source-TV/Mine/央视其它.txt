@@ -1,4 +1,3 @@
-===20240101更新by似水流年===
 == 央视其它 ==,#genre#
 CETV 1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8?
 CETV 1,http://[2409:8087:1e03:21::34]:6610/cms001/ch00000090990000001020/index.m3u8?IASHttpSessionId=RR8275420230310002030000839
@@ -61,4 +60,3 @@ CCTV-世界地理,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000
 CCTV-世界地理,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
 CCTV-世界地理,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 CCTV-世界地理,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
