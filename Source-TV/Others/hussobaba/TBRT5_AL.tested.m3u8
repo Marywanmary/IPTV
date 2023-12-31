@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://picon-13398.kxcdn.com/trt1hdtr.jpg",TRT1 ᵁᴴᴰ⁺
+https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
+#EXTINF:-1 group-title="1_ULUSAL_KANALLAR",TRT 2 FHD
+http://167.114.115.233:8080/trt2fhd/index.m3u8
+#EXTINF:-1 ,TRT3 Türk
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 ,TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 ,CINE5 TV HD
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
+#EXTINF:-1 ,TRT6 AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://picon-13398.kxcdn.com/kanal7tr.jpg",KANAL 7 ᵁᴴᴰ⁺
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8|User-Agent=Lavf53.32.100
+#EXTINF:-1 ,KANAL 7 AVRUPA FHD
+https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:-1 group-title="ULUSAL-int" tvg-logo="https://picon-13398.kxcdn.com/tv8inltr.jpg",TV8 YDK ᴴᴰ
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 group-title="HÇRT" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER STAR LNK3
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber/chunklist_w2090913015.m3u8
+#EXTINF:-1 group-title="HÇRT" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",TEBER ON LNK3
+https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber2/chunklist_w909642297.m3u8
+#EXTINF:-1 ,TR:YANSIMA TV
+https://ssh101.bozztv.com/ssh101/yansinemaatv/chunks.m3u8
+#EXTINF:-1 ,VRT HD
+https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://picon-13398.kxcdn.com/startvtr.jpg",STAR TV ᵁᴴᴰ⁺
+http://canli.haber365.com.tr/tr/startv/index.m3u8
+#EXTINF:-1 group-title="1_ULUSAL_KANALLAR",SHOW TV HD
+http://canli.haber365.com.tr/tr/showtv/index.m3u8
+#EXTINF:-1 ,Kanal D Hd
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://picon-13398.kxcdn.com/teve2tr.jpg",Teve2 ᵁᴴᴰ⁺
+https://demiroren-live.daioncdn.net:443/teve2/teve2_1080p.m3u8|User-Agent=Lavf53.32.100
+#EXTINF:-1 group-title="1_ULUSAL_KANALLAR",360 TV HD YEDEK
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://picon-13398.kxcdn.com/beyaztvtr.jpg",BEYAZ TV ᵁᴴᴰ⁺
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8|User-Agent=Lavf53.32.100
+#EXTINF:-1 ,DEM int TV
+http://77.68.121.3/hls/stream.m3u8
+#EXTINF:-1 group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR",HALK TV FHD
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 ,EM TV
+http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+#EXTINF:-1 ,TV48
+https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
+#EXTINF:-1 ,CINE1 TV
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+#EXTINF:-1 ,TOKAT TV1
+https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/chunklist.m3u8
+#EXTINF:-1 ,BÜLTEN TV
+https://cdn1-bultentv.yayin.com.tr/bultentv/bultentv/chunklist_w886123543_b1996000.m3u8
+#EXTINF:-1 ,RIZE TÜRK
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+#EXTINF:-1 ,KANAL 19
+https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
+#EXTINF:-1 ,TV A
+https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8
+#EXTINF:-1 group-title="YEREL KANALLAR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/48e5a212-b440-4682-a613-2b0fb18e663f.png",Gurbet 24 Erzincan
+http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8
+#EXTINF:-1 group-title="YEREL KANALLAR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/7d49b2d4-aab5-48f4-b3d6-928f40a2288f.png",Bartın TV
+http://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/chunklist_w896416726.m3u8
+#EXTINF:-1 group-title="2_OZEL_iPTV_KANALLAR_1",ID HD TR
+https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
+#EXTINF:-1 group-title="2_OZEL_iPTV_KANALLAR_1",ID FHD TR
+https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8
+#EXTINF:-1 ,tiviTÜRK
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 group-title="2_OZEL_iPTV_KANALLAR_1",CLC MEDYA TV HD
+https://clcmediatv.ozelip.com:3192/stream/play.m3u8
+#EXTINF:-1 ,TVDEN Aydın
+http://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1 ,Van Gölü TV
+https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8
+#EXTINF:-1 ,Net TV
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
+#EXTINF:-1 group-title="YEREL KANALLAR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/59a5e6e2-8ae5-432d-948b-509ab7ea4d70.png",Aras TV
+http://1.rtmp.org/tv217/yayin.stream/chunklist_w1620641153.m3u8
+#EXTINF:-1 ,DÜZGÜN TV
+http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
+#EXTINF:-1 ,ADA TV NET HD
+https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
+#EXTINF:-1 ,KOBiM TV HD
+http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
+#EXTINF:-1 ,iSTANBUL TV HD
+http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8
+#EXTINF:-1 ,AFYON TÜRK TV
+http://5.9.48.146:19370/afyonturktv/afyonturktv.m3u8
+#EXTINF:-1 ,KANAL ANTALYA
+https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
+#EXTINF:-1 ,SANCAK TV
+https://2.rtmp.org/tv219/yayin.stream/playlist.m3u8
+#EXTINF:-1 ,ViYANA TV HD
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+#EXTINF:-1 group-title="9_DiNi_KANALLAR",KUDUS TV
+https://yayin30.haber100.com/live/kudustv/chunklist.m3u8
+#EXTINF:-1 ,ARAS TV
+http://1.rtmp.org/tv217/yayin.stream/chunklist.m3u8
+#EXTINF:-1 ,Kuzey Kıbrıs TV
+http://kuzeykibris.tv/m3u8/tv_kktv.m3u8
+#EXTINF:-1 ,Cay TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:-1 ,Icel TV
+http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8
+#EXTINF:-1 ,KÖROĞLU TV
+http://stream.taksimbilisim.com:1935/koroglutv/bant1/playlist.m3u8
+#EXTINF:-1 ,Metropol Tv
+https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8
+#EXTINF:-1 ,TV4 HD TR
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
