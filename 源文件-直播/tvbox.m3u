@@ -2499,11 +2499,11 @@ http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
 #EXTINF:-1 tvg-logo="" group-title="== 体育其它 ==",五星体育
 https://tv.iill.top/bestv/wxty
-#EXTINF:-1 tvg-logo="" group-title="== 体育其它 ==",武博世界
+#EXTINF:-1 tvg-logo="" group-title="== 体育其它 ==",武搏世界
 http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221230434/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="== 体育其它 ==",武博世界
+#EXTINF:-1 tvg-logo="" group-title="== 体育其它 ==",武搏世界
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/PLTV/1/224/3221230434/1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="== 体育其它 ==",武博世界
+#EXTINF:-1 tvg-logo="" group-title="== 体育其它 ==",武搏世界
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2554338791_49940138/ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="== 体育其它 ==",武搏世界
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
@@ -6349,7 +6349,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3373254713_-1111569189/o
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="== 影视综合 ==",NewTv农业致富
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2105966330_1690115505/ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="== 影视综合 ==",NewTv武博世界
+#EXTINF:-1 tvg-logo="" group-title="== 影视综合 ==",NewTv武搏世界
 http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw2554338791_49940138/ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="== 影视综合 ==",NewTv炫舞未来
 http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2582593423_1721070986/ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
