@@ -46,25 +46,19 @@
   2. ghproxy.net/ghproxy.org/mirror.ghproxy.com/gh.api.99988866.xyz/，直接加在github.com和raw.githubusercontent.com前面。
 
 ### 自用
-1. 单一源推荐使用范明明，乐青等，毕竟专人维护比我自己强多了；
-2. 多源自动切换也就是TVBox源，整理后放入TVBox一劳永逸，注意，仅供TVBox使用，Televizo/TiviMate/PotPlayer打开会让你拖到崩溃。
+1. 单一源推荐使用范明明，乐青等，毕竟专人维护比我自己强多了，主要还是懒-_-!；
+2. 多源自动切换也就是TVBox源，整理后放入TVBox几乎可以一劳永逸。注意，仅供TVBox使用，Televizo/TiviMate/PotPlayer打开会让你拖到崩溃。
 3. 源内容分为普通跟nsfw两种，注意甄别；源格式有TXT/M3U两种，内容一样。
 Enjoy !
 
 更新时间：01-Jan-2024
-|#|源地址|反代免翻短网址|更新时间|分流网址|分流反代短网址|备注|
-|---|----|-----|-----|-----|-----|-----|
-|1|[tvbox.TXT][tvboxt]|https://gg.gg/zby001|20/Dec/23|待完善|待完善|更新及时，主要为v6，主力推荐|
-|2|[tvbox.M3U][tvboxm]|https://gg.gg/zby002|26/Dec/23|待完善|待完善|4000台，建议TVBox换源|
-|3|[tvbox.nfsw.TXT][tvbox18t]|https://gg.gg/zby003|20/Dec/23|待完善|待完善|同范明明|
-|4|[tvbox.nfsw.M3U][tvbox18m]|https://gg.gg/zby004|9/Sep/23|待完善|待完善|v6卫视港台国际|
-|5|[Kimentanm][KIM]|https://gg.gg/zby005|18/Dec/23|待完善|待完善|v4v6卫视香港|
-|6|[Meroser][MER]|https://gg.gg/zby006|23/Dec/23|待完善|待完善|v6卫视港台国际|
-|7|[whpsky][WHP]|https://gg.gg/zby007|15/Dec/23|待完善|待完善|v6上海苏州卫视港台国际|
-|8|[wuyun999][WY]|https://gg.gg/zby008|1/Jun/23|待完善|待完善|1000台，杂，有广播|
-|9|[YanG-1989][YGG]|https://gg.gg/zby009|15/Dec/23|待完善|待完善|2000台，杂，有广播|
-|10|[YanG-1989-Adult][YGA]|https://gg.gg/zby1801|15/Dec/23|待完善|待完善|懂的都懂|
-|11|[YueChan][YC]|https://gg.gg/zby010|26/Dec/23|待完善|待完善|v6，卫视港台国际|
+|#|源地址|短1|反代2|短2|备注|
+|---|----|-----|-----|-----|-----|
+|1|[tvbox.TXT][tvboxt]|短1|[反代2][tvboxt2]|短2|正常源|
+|2|[tvbox.M3U][tvboxm]|短1|[反代2][tvboxm2]|短2|正常源|
+|3|[tvbox.nfsw.TXT][tvbox18t]|短1|[反代2][tvbox18t2]|短2|带nfsw|
+|4|[tvbox.nfsw.M3U][tvbox18m]|短1|[反代2][tvbox18m2]|短2|带nfsw|
+
 
     
 --------------------------------
@@ -84,3 +78,11 @@ Enjoy !
 [YGG]:https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 [YGA]:https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
 [YC]:https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+[tvboxt]:https://raw.fgit.cf/Marywanmary/IPTV6/main/Source-TV/Mine/tvbox.txt
+[tvboxm]:https://raw.fgit.cf/Marywanmary/IPTV6/main/Source-TV/Mine/tvbox.m3u
+[tvbox18t]:https://raw.fgit.cf/Marywanmary/IPTV6/main/Source-TV/Mine/tvbox-nfsw.txt
+[tvbox18m]:https://raw.fgit.cf/Marywanmary/IPTV6/main/Source-TV/Mine/tvbox-nfsw.m3u
+[tvboxt2]:https://ghproxy.org/https://raw.githubusercontent.com/Marywanmary/IPTV6/main/Source-TV/Mine/tvbox.txt
+[tvboxm2]:https://ghproxy.org/https://raw.githubusercontent.com/Marywanmary/IPTV6/main/Source-TV/Mine/tvbox.m3u
+[tvbox18t2]:https://ghproxy.org/https://raw.githubusercontent.com/Marywanmary/IPTV6/main/Source-TV/Mine/tvbox-nfsw.txt
+[tvbox18m2]:https://ghproxy.org/https://raw.githubusercontent.com/Marywanmary/IPTV6/main/Source-TV/Mine/tvbox-nfsw.m3u
