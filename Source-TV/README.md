@@ -47,17 +47,18 @@
 
 ### 自用
 1. 单一源推荐使用范明明，乐青等，毕竟专人维护比我自己强多了，主要还是懒-_-!；
-2. 多源自动切换也就是TVBox源，整理后放入TVBox几乎可以一劳永逸。注意，仅供TVBox使用，Televizo/TiviMate/PotPlayer打开会让你拖到崩溃。
+2. 多源自动切换也就是TVBox源，个人整理的直播源，多为IPv6，建议下载后本地放入TVBox几乎可以一劳永逸。  注意，仅供TVBox使用，Televizo/TiviMate/PotPlayer打开会让你拖到崩溃。
 3. 源内容分为普通跟nsfw两种，注意甄别；源格式有TXT/M3U两种，内容一样。
+4. 不太建议使用在线地址，除非大量源失效基本不会再更新。
 Enjoy !
 
 更新时间：01-Jan-2024
-|#|源地址|短1|反代2|短2|备注|
+|#|源地址|短网址1|反代2|短网址2|备注|
 |---|----|-----|-----|-----|-----|
-|1|[tvbox.TXT][tvboxt]|短1|[反代2][tvboxt2]|短2|正常源|
-|2|[tvbox.M3U][tvboxm]|短1|[反代2][tvboxm2]|短2|正常源|
-|3|[tvbox.nfsw.TXT][tvbox18t]|短1|[反代2][tvbox18t2]|短2|带nfsw|
-|4|[tvbox.nfsw.M3U][tvbox18m]|短1|[反代2][tvbox18m2]|短2|带nfsw|
+|1|[tvbox.M3U][tvboxm]|http://gg.gg/ttvv00|[反代2][tvboxm2]|http://gg.gg/ttvv01|正常源|
+|2|[tvbox.TXT][tvboxt]|http://gg.gg/ttvv02|[反代2][tvboxt2]|http://gg.gg/ttvv03|正常源|
+|3|[tvbox.nfsw.M3U][tvbox18m]|http://gg.gg/ttvvx0|[反代2][tvbox18m2]|http://gg.gg/ttvvx1|带nfsw|
+|4|[tvbox.nfsw.TXT][tvbox18t]|http://gg.gg/ttvvx2|[反代2][tvbox18t2]|http://gg.gg/ttvvx3|带nfsw|
 
 
     
